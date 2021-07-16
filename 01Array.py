@@ -7,6 +7,13 @@ data_list = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 
 print(data_list[2][::-1])
 
+print(data_list[2][-1])
+print(data_list[2][-2])
+print(data_list[2][-3])
+
+
+
+
 # 연습 2: dataset 리스트에서 전체 이름 안에 M은 몇 번 나왔는지 빈도수 출력하기
 
 dataset = ['Braund, Mr. Owen Harris',
